@@ -2,7 +2,7 @@
 
 🇧🇷 I'm from Brazil;
 
-🖥️ I'm a professional developer, focused in asp.net stack and software archtecture;
+🖥️ I'm a professional developer, focused in asp.net stack, software archtecture and now expanding my knowledge to kubernetes and CI/CD;
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luylucas10)
